@@ -12,7 +12,7 @@ Over the past few years, I've worked on various projects involving software deve
 I have a passion for continuous learning and collaborating with others to create innovative and impactful technology solutions. I believe technology has tremendous potential to make the world a better place, and I am committed to contributing to positive change.
 
 **Get in Touch**.\
-If you're interested in collaborating or have any questions, feel free to reach out to me via email at [My Gmail](fahmimna@gmail.com) I'm always open to discussing exciting projects and new opportunities. Don't forget to follow me on  [Linkedin](https://www.linkedin.com/in/fahmi-akbar-10279b212/).
+If you're interested in collaborating or have any questions, feel free to reach out to me via email at [My Gmail](fahmimna@gmail.com) I'm always open to discussing exciting projects and new opportunities. Don't forget to follow me on  [LinkedIn](https://www.linkedin.com/in/fahmi-akbar-10279b212/).
  
 <p align="left">
 <a href="https://github.com/gilangadhan">
