@@ -1,5 +1,5 @@
 # Introduction to My Coding Journey
-## Hello!
+## Hello !
 I'm **Fahmi Malik Namus Akbar**.\
 A passionate software developer with experience across various software development projects. 
 I am keenly interested in technology and am constantly learning and growing in this field.
